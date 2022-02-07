@@ -1,0 +1,9 @@
+.table-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  background: #3a3a3c;
+  color: white;
+  font-weight: bold;
+}

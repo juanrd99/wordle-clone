@@ -1,0 +1,22 @@
+.keyboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f6f3;
+  -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 0px 1px 50px -15px #000000,
+    0px 0px 0px 0px #000000;
+  box-shadow: 5px 5px 5px 0px #000000, inset 0px 1px 50px -15px #000000,
+    0px 0px 0px 0px #000000;
+}
+
+.keyboard-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  height: 100%;
+  display: grid;
+  gap: 5px;
+  width: 90%;
+  min-width: 300px;
+  max-width: 600px;
+  height: 50%;
+}

@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  height: 100%;
+  width: 50%;
+  min-width: 300px;
+  max-width: 350px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}
