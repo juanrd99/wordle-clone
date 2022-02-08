@@ -4,7 +4,7 @@ Clone of the popular game: Wordle made it with React.
 
 ## Demo
 
-https://wordle-clone-xi.vercel.app/
+wordle-clone-jfelipelayos.vercel.app
 
 ## Feedback
 
