@@ -3,7 +3,7 @@ import "./Header.css";
 function Header() {
   return (
     <header>
-      <h1>Wordle Clone</h1>
+      <h1>Wordle Clon</h1>
     </header>
   );
 }
